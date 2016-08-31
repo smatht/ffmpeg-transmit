@@ -5,7 +5,7 @@ El script toma un recurso de video en streaming via RTSP, lo codifica y lo retra
 ## Requerimientos
 
 1. Linux (testeado en Slackware 14.1 y Ubuntu 16.04)
-2. Install FFMPEG y dependencias
+2. Instalar FFMPEG y dependencias
 
 ## Como correr
 ```bash
