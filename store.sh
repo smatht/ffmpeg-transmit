@@ -6,7 +6,7 @@ VBR="400k"         # Bitrate del video
 FPS="30"           # FPS del video
 QUAL="medium"      # Preset de calidad FFMPEG
 
-SOURCE="rtsp://www.sitio.net:1935/live"              # Source UDP (voir les annonces SAP)
+SOURCE="rtsp://www.stream.net:0000/live"              # Source UDP (voir les annonces SAP)
 
 ffmpeg \
     -i "$SOURCE" -deinterlace \
